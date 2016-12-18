@@ -4,6 +4,8 @@ demo flowers dataset retrain inception resnet v2 model
 Step 0
 
 ```
+git clone https://github.com/bigsnarfdude/flowers_retrain_inception_resnet_v2.git
+cd flowers_retrain_inception_resnet_v2
 cd slim
 ```
 
