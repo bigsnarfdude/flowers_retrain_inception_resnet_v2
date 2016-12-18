@@ -1,5 +1,5 @@
 # flowers_retrain_inception_resnet_v2
-demo flowers dataset retrain inception resnet v2 model - tested ubuntu14.04 tensorflow 0.12 cuda8
+demo flowers dataset retrain inception resnet v2 model - tested ubuntu14.04 tensorflow 0.12 cuda8 titan xp
 http://download.tensorflow.org/models/inception_resnet_v2_2016_08_30.tar.gz
 
 Step 0
