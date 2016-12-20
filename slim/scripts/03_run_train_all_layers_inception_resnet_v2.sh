@@ -17,7 +17,7 @@ python train_image_classifier.py \
   --dataset_dir=${DATASET_DIR} \
   --model_name=inception_resnet_v2 \
   --checkpoint_path=${TRAIN_DIR} \
-  --max_number_of_steps=2000 \
+  --max_number_of_steps=4000 \
   --batch_size=16 \
   --learning_rate=0.0001 \
   --learning_rate_decay_type=fixed \
