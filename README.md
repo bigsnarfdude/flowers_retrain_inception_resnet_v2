@@ -10,6 +10,8 @@ cd flowers_retrain_inception_resnet_v2
 cd slim
 ```
 
+.
+
 Step 1
 Get flowers dataset
 
